@@ -11,7 +11,7 @@ I'm looking for a Front End Developer internship position!<br>
 - Period two: January 23 - May 12 // 16 weeks.
 
 ### 👩🏼‍💻 Some of my skills
-HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Express.js ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Figma ∙ Firebase ∙ SQL ∙ Adobe /Pr /xD /Ps
+HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ps ∙ Figma
 
 
 ### 🏤 Get in touch:
