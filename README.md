@@ -18,5 +18,5 @@ HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass
 
 [Email](mailto:julialottatinglof@gmail.com) <br>
 [LinkedIn](https://www.linkedin.com/in/julialottatinglof) <br>
-[Portfolio](https://wwww.tingloef.se)
+[Portfolio](https://tingloef.se/)
 
