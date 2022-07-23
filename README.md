@@ -20,6 +20,6 @@ Cooming soon!
 
 ### Get in touch
 
-[Email](mailto:julialottatinglof@gmail.com) <br>
+[Email](mailto:julia-lotta@tingloef.se) <br>
 [LinkedIn](https://www.linkedin.com/in/julialottatinglof) <br>
 
