@@ -7,8 +7,8 @@ I have a background in project management, digital marketing and music. I've alw
 
 ### Looking for internship
 I'm looking for a Front End Developer internship position!<br>
-- Period one: October 3 - December 9 // 10 weeks.<br>
-- Period two: January 23 - May 12 // 16 weeks.
+- Period one: October 3 - December 9 // 10 weeks // Paris <br>
+- Period two: January 23 - May 12 // 16 weeks // Stockholm
 
 ### Some of my skills
 HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma
