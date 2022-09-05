@@ -7,7 +7,11 @@ I have a background in project management, digital marketing and music. I've alw
 
 ### Looking for internship in 2023
 I'm looking for a Front End Developer internship position!<br>
-- Period two: January 23 - May 12 // 16 weeks // Stockholm
+- January 23 - May 12 // 16 weeks // Stockholm
+
+### Internship fall of 2022
+Between October and December I will be doing an internship as a developer at Istya in Paris. Working with techniques like React, React Native, TypeScript, Node, MondoDB and more.
+
 
 ### Some of my skills
 HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma
