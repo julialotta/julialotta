@@ -5,9 +5,8 @@ When I'm not studiyng I'm consulting for Academic Work, developing a fun game ap
 
 I have a background in project management, digital marketing and music. I've always been curious to learn new things and gone under the inofficial title "the IT support" my whole life.
 
-### Looking for internship
+### Looking for internship in 2023
 I'm looking for a Front End Developer internship position!<br>
-- Period one: October 3 - December 9 // 10 weeks // Paris <br>
 - Period two: January 23 - May 12 // 16 weeks // Stockholm
 
 ### Some of my skills
