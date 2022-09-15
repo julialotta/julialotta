@@ -17,9 +17,11 @@ Between October and December I will be doing an internship as a developer at Ist
 HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma
 
 ### Portfolio
-[Portfolio](https://tingloef.se/)<br>
-Cooming soon! 
+[www.alltförklubben.se](https://xn--alltfrklubben-mmb.se/) // React, TypeScript, Firestore <br>
+On behalf of [Passion Lab](https://passionlab.se/) I built a quiz app for Damallsvenskan. <br><br>
 
+[Whodunit Geogames](https://apps.apple.com/us/app/whodunit-geogames/id1623048354) // React Native, Sass, Firebase auth & Firestore<br>
+An iOS game app that I designed togheter with the client and developed from scratch. This is the project that taught me how to code. 
 
 ### Get in touch
 
