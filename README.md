@@ -5,12 +5,8 @@ When I'm not studiyng I'm consulting for Academic Work, developing a fun game ap
 
 I have a background in project management, digital marketing and music. I've always been curious to learn new things and gone under the inofficial title "the IT support" my whole life.
 
-### Looking for internship in 2023
-I'm looking for a Front End Developer internship position!<br>
-- January 23 - May 12 // 16 weeks // Stockholm
-
-### Internship fall of 2022
-Between October and December I will be doing an internship as a developer at Istya in Paris. Doing agile work with techniques like React, React Native, TypeScript, Node, MondoDB and more.
+### Developer Internship, Istya, Paris
+Between October and December 2022 I'm doing an internship as a developer at [Istya](https://istya.co/) in Paris. Doing agile work with techniques like React, React Native, TypeScript, Node, MondoDB and more. Istya is part of the world's biggest startup campus - Station F.
 
 
 ### Some of my skills
