@@ -11,7 +11,7 @@ Between January and May 2023 I'm doing an internship as a developer at [Rhyme](h
 HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Redux ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma ∙ JIRA ∙ AWS
 
 ### Portfolio
-[www.alltförklubben.se](https://xn--alltfrklubben-mmb.se/)<br>
+[www.alltforklubben.tingloef.se](https://alltforklubben.tingloef.se/)<br>
 On behalf of [Passion Lab](https://passionlab.se/) I built a quiz app for [Damallsvenskan](https://www.obosdamallsvenskan.se/). <br>
 Techniques: React, TypeScript, Firestore, Framer Motion, Styled Components <br><br>
 
