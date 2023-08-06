@@ -1,14 +1,11 @@
 # Hi there 🌞🌞🌞
 
-My name is Julia-Lotta and I'm currently studying Front-End development at Medieinstitutet in Stockholm.
+My name is Julia-Lotta and I'm a Front-End Developer based in Stockholm.
 
 I have a background in project management, digital marketing and music. I've always been curious to learn new things and gone under the inofficial title "the IT support" my whole life.
 
-### Developer Internship, Rhyme, Stockholm
-Between January and May 2023 I'm doing an internship as a developer at [Rhyme](https://rhymesthlm.se/) in Stockholm. Doing agile work with techniques & tools like Gatsby, Next.js, React, Node.JS, MondoDB, AWS and much more.
-
 ### Some of my skills
-HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Redux ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma ∙ JIRA ∙ AWS
+HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Redux ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma ∙ JIRA ∙ AWS ∙ Python
 
 ### Portfolio
 [www.alltforklubben.tingloef.se](https://alltforklubben.tingloef.se/)<br>
