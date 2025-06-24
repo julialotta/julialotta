@@ -8,7 +8,7 @@ I have a background in project management, digital marketing and music. I've alw
 HTML5 ∙ CSS3 ∙ JavaScript ∙ TypeScript ∙ React ∙ React Native ∙ Sass ∙ Node.js ∙ Redux ∙ Express.js ∙ Firebase ∙ SQL ∙ MongoDB ∙ Mongoose ∙ Cypress ∙ Adobe / Pr / xD / Ai / Ps ∙ Figma ∙ JIRA ∙ AWS ∙ Python
 
 ### Portfolio
-[www.alltforklubben.tingloef.se](https://alltforklubben.tingloef.se/)<br>
+[https://github.com/julialotta/Obos-Damallsvenskan-quiz-app](https://github.com/julialotta/Obos-Damallsvenskan-quiz-app)<br>
 On behalf of [Passion Lab](https://passionlab.se/) I built a quiz app for [Damallsvenskan](https://www.obosdamallsvenskan.se/). <br>
 Techniques: React, TypeScript, Firestore, Framer Motion, Styled Components <br><br>
 
